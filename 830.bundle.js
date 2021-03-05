@@ -1,7 +1,0 @@
-/*! For license information please see 830.bundle.js.LICENSE.txt */
-/*!
- * Copyright Strimzi authors.
- * License: Apache License 2.0 (see the file LICENSE or http://apache.org/licenses/LICENSE-2.0.html).
- *
- */
-(self.webpackChunkstrimzi_ui=self.webpackChunkstrimzi_ui||[]).push([[830],{9830:e=>{"use strict";e.exports=function bytes(e,r){if("string"==typeof e)return parse(e);if("number"==typeof e)return format(e,r);return null},e.exports.format=format,e.exports.parse=parse;var r=/\B(?=(\d{3})+(?!\d))/g,t=/(?:\.0*|(\.[^0]+)0+)$/,a={b:1,kb:1024,mb:1<<20,gb:1<<30,tb:Math.pow(1024,4),pb:Math.pow(1024,5)},o=/^((-|\+)?(\d+(?:\.\d+)?)) *(kb|mb|gb|tb|pb)$/i;function format(e,o){if(!Number.isFinite(e))return null;var i=Math.abs(e),s=o&&o.thousandsSeparator||"",n=o&&o.unitSeparator||"",u=o&&void 0!==o.decimalPlaces?o.decimalPlaces:2,b=Boolean(o&&o.fixedDecimals),p=o&&o.unit||"";p&&a[p.toLowerCase()]||(p=i>=a.pb?"PB":i>=a.tb?"TB":i>=a.gb?"GB":i>=a.mb?"MB":i>=a.kb?"KB":"B");var f=(e/a[p.toLowerCase()]).toFixed(u);return b||(f=f.replace(t,"$1")),s&&(f=f.replace(r,s)),f+n+p}function parse(e){if("number"==typeof e&&!isNaN(e))return e;if("string"!=typeof e)return null;var r,t=o.exec(e),i="b";return t?(r=parseFloat(t[1]),i=t[4].toLowerCase()):(r=parseInt(e,10),i="b"),Math.floor(a[i]*r)}}}]);
