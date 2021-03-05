@@ -1,0 +1,11 @@
+{
+    "kafka": {
+        "entry": [
+            "/beta/apps/rhosak-data-plane-ui-build/remoteEntry.js"
+        ],
+        "modules": [
+            "/beta/apps/rhosak-data-plane-ui-build/src_Panels_Topics_FederatedView_tsx.bundle.js",
+            "/beta/apps/rhosak-data-plane-ui-build/src_Panels_Topics_FederatedCreateView_tsx.bundle.js"
+        ]
+    }
+}
