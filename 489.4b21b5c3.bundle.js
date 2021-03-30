@@ -1,2 +1,0 @@
-(self.webpackChunkkafka_ui=self.webpackChunkkafka_ui||[]).push([[489],{2489:(t,e,u)=>{"use strict";function k(t,e){return(k=Object.setPrototypeOf||function(t,e){return t.__proto__=e,t})(t,e)}u.d(e,{Z:()=>k})}}]);
-//# sourceMappingURL=489.4b21b5c3.bundle.js.map
