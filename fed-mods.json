@@ -1,13 +1,17 @@
 {
     "kafka": {
         "entry": [
-            "/beta/apps/rhosak-data-plane-ui-build/kafka.acf928ab.js"
+            "/beta/apps/rhosak-data-plane-ui-build/kafka.eb989447.js"
         ],
         "modules": [
-            "/beta/apps/rhosak-data-plane-ui-build/127.7b0520fc.css",
-            "/beta/apps/rhosak-data-plane-ui-build/127.40c60809.bundle.js",
-            "/beta/apps/rhosak-data-plane-ui-build/359.57c980a1.css",
-            "/beta/apps/rhosak-data-plane-ui-build/359.7d098eba.bundle.js"
+            "/beta/apps/rhosak-data-plane-ui-build/977.e198ad4e.css",
+            "/beta/apps/rhosak-data-plane-ui-build/977.b1ff91ef.bundle.js",
+            "/beta/apps/rhosak-data-plane-ui-build/714.19811499.css",
+            "/beta/apps/rhosak-data-plane-ui-build/714.df0a2828.bundle.js",
+            "/beta/apps/rhosak-data-plane-ui-build/716.8a8af116.css",
+            "/beta/apps/rhosak-data-plane-ui-build/716.75daec09.bundle.js",
+            "/beta/apps/rhosak-data-plane-ui-build/414.33fb77bd.css",
+            "/beta/apps/rhosak-data-plane-ui-build/414.21f08445.bundle.js"
         ]
     }
 }
