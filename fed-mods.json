@@ -1,7 +1,7 @@
 {
     "kafka": {
         "entry": [
-            "/beta/apps/rhosak-data-plane-ui-build/kafka.ea17ee90.js"
+            "/beta/apps/rhosak-data-plane-ui-build/kafka.274ac690.js"
         ],
         "modules": [
             "/beta/apps/rhosak-data-plane-ui-build/527.447fdcf2.css",
