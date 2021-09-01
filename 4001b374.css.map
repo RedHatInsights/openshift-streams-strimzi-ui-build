@@ -1,0 +1,1 @@
+{"version":3,"file":"4001b374.css","mappings":"AAAA,qBACE,YAGF,YACE","sources":["webpack://kafka-ui/./src/modules/ConsumerGroups/dialogs/ConsumerGroupResetOffset/ConsumerGroupResetOffset.css"],"sourcesContent":["#custom-offset-input {\n  width: 10rem;\n}\n\n.form-title {\n  padding-top: var(--pf-c-form--m-horizontal__group-label--md--PaddingTop);\n}"],"names":[],"sourceRoot":""}
