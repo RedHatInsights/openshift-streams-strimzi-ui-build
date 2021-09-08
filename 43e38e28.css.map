@@ -1,0 +1,1 @@
+{"version":3,"file":"43e38e28.css","mappings":"AAAA,yEAEE","sources":["webpack://kafka-ui/./src/modules/Topics/Topics.css"],"sourcesContent":[".pf-c-toolbar-item--search,\n.pf-c-toolbar-item--search .pf-c-search-input {\n  flex: 0 1 20em;\n}\n"],"names":[],"sourceRoot":""}
