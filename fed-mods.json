@@ -1,22 +1,22 @@
 {
     "kafka": {
         "entry": [
-            "/kafka.c8ff839b.js"
+            "/kafka.3ca7593c.js"
         ],
         "modules": [
             "/927aab7f.css",
-            "/4303.2ae55eb7.js",
+            "/4303.53e9553b.js",
             "/5770bf30.css",
-            "/6291.bc8eacbf.js",
+            "/6291.cda2b355.js",
             "/afc8f082.css",
-            "/7517.86bfa38e.js",
+            "/7517.62bee217.js",
             "/5574.b1c22898.js",
             "/fcc09d0c.css",
-            "/531.31d2f132.js",
+            "/531.da109c1e.js",
             "/d5ae5a7a.css",
-            "/4043.5e6fc987.js",
+            "/4043.181d8937.js",
             "/c173aacc.css",
-            "/6741.0ed9eb88.js"
+            "/6741.eb6fad42.js"
         ]
     }
 }
