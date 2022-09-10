@@ -1,7 +1,7 @@
 {
     "kafka": {
         "entry": [
-            "/kafka.a182747f.js"
+            "/kafka.7d66267d.js"
         ],
         "modules": [
             "/927aab7f.css",
@@ -9,14 +9,14 @@
             "/2db40754.css",
             "/6291.14dcfa5d.js",
             "/2630c9d3.css",
-            "/7517.0050f687.js",
-            "/5574.63166620.js",
+            "/7517.efc93b76.js",
+            "/5574.c5a19284.js",
             "/fcc09d0c.css",
-            "/531.af7514d6.js",
+            "/531.c3dcdb20.js",
             "/d5ae5a7a.css",
-            "/4043.ca954615.js",
+            "/4043.b12fb524.js",
             "/c173aacc.css",
-            "/6741.e605f22e.js"
+            "/6741.c6b83134.js"
         ]
     }
 }
